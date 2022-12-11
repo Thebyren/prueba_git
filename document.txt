@@ -1,1 +1,3 @@
-esta es una vieja propiedad
+esta es una nueva propiedad
+viejas propiedades
+viejas propiedades
