@@ -1,6 +1,7 @@
 esta es una nueva propiedad
-viejas propiedades
-viejas propiedades
+
+nuevas propiedades
+nuevas propiedades
 nueva propiedad
 nueva propiedad
 nueva propiedad
