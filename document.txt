@@ -4,8 +4,13 @@ nuevas propiedades
 nuevas propiedades
 
 viejas propiedades
+lista de propiedades{
 
-nueva propiedad
-nueva propiedad
-nueva propiedad
-nueva propiedad
+propiedad 1
+propiedad 2
+propiedad 3
+propiedad 4
+propiedad 5
+propiedad 6
+propiedad 7
+}
